@@ -5,7 +5,7 @@
 The commands are git remote orgin "repo link"
 git add .
 git commit -m "Message"
-git push -u orgin main
+git push -u origin main
 ```
 ##
 ## Project setup
