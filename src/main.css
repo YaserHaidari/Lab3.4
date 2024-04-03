@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(65, 123, 238);
+    color: white;
+}
+
+#divRegScreen{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+/* #divRegScreen label{
+    margin-bottom: 10px;
+    margin-top: 10px;
+} */
+
+#divRegScreen button{
+    margin-top: 15px;
+    width: 100%;
+}
